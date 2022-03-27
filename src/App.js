@@ -45,7 +45,7 @@ function App() {
           setclickNumber(countReset)
         }}
       >
-        Reset Compteur et nombre deClick
+        Reset Compteur et nombre de Click
       </button>
       <h2>Tu as cliqué {clickNumber} fois</h2>
     </div>
